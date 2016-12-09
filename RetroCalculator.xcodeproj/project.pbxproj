@@ -13,6 +13,7 @@
 		44933B6F1DF9035D00068C83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44933B6E1DF9035D00068C83 /* Assets.xcassets */; };
 		44933B721DF9035D00068C83 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44933B701DF9035D00068C83 /* LaunchScreen.storyboard */; };
 		44933B7A1DFA4F2800068C83 /* digital.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 44933B791DFA4F2800068C83 /* digital.ttf */; };
+		44933B7C1DFA50CA00068C83 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 44933B7B1DFA50CA00068C83 /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		44933B711DF9035D00068C83 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		44933B731DF9035D00068C83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		44933B791DFA4F2800068C83 /* digital.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = digital.ttf; sourceTree = "<group>"; };
+		44933B7B1DFA50CA00068C83 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				44933B6E1DF9035D00068C83 /* Assets.xcassets */,
 				44933B701DF9035D00068C83 /* LaunchScreen.storyboard */,
 				44933B731DF9035D00068C83 /* Info.plist */,
+				44933B7B1DFA50CA00068C83 /* btn.wav */,
 				44933B791DFA4F2800068C83 /* digital.ttf */,
 			);
 			path = RetroCalculator;
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44933B7C1DFA50CA00068C83 /* btn.wav in Resources */,
 				44933B721DF9035D00068C83 /* LaunchScreen.storyboard in Resources */,
 				44933B7A1DFA4F2800068C83 /* digital.ttf in Resources */,
 				44933B6F1DF9035D00068C83 /* Assets.xcassets in Resources */,
